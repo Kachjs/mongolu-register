@@ -1,0 +1,11 @@
+{
+  "name": "kachi-v12-voucher",
+  "version": "1.0.0",
+  "description": "Kachi Voucher",
+  "main": "kachi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kachi",
+  "license": "ISC"
+}
